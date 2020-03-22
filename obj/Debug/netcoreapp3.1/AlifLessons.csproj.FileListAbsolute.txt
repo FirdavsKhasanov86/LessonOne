@@ -1,0 +1,10 @@
+/Users/user/Documents/AlifLessons/bin/Debug/netcoreapp3.1/AlifLessons.deps.json
+/Users/user/Documents/AlifLessons/bin/Debug/netcoreapp3.1/AlifLessons.runtimeconfig.json
+/Users/user/Documents/AlifLessons/bin/Debug/netcoreapp3.1/AlifLessons.runtimeconfig.dev.json
+/Users/user/Documents/AlifLessons/bin/Debug/netcoreapp3.1/AlifLessons.dll
+/Users/user/Documents/AlifLessons/bin/Debug/netcoreapp3.1/AlifLessons.pdb
+/Users/user/Documents/AlifLessons/obj/Debug/netcoreapp3.1/AlifLessons.csprojAssemblyReference.cache
+/Users/user/Documents/AlifLessons/obj/Debug/netcoreapp3.1/AlifLessons.AssemblyInfoInputs.cache
+/Users/user/Documents/AlifLessons/obj/Debug/netcoreapp3.1/AlifLessons.AssemblyInfo.cs
+/Users/user/Documents/AlifLessons/obj/Debug/netcoreapp3.1/AlifLessons.dll
+/Users/user/Documents/AlifLessons/obj/Debug/netcoreapp3.1/AlifLessons.pdb
